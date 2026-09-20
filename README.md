@@ -1,5 +1,6 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+<img width="1600" height="528" alt="HAHAHAHHAHHHHHAHAHAAAHAHAHAHAHHHAHAHA" src="https://github.com/user-attachments/assets/3f680554-1f27-4865-9604-a59d0aac5f2d" />
+
 </div>
 
 # NOVA-NERDS — Meridian Flood Command EOC
