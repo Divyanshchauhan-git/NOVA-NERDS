@@ -43,3 +43,20 @@ npm run dev
 ```
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
+---
+
+## 🚀 Deployment to Vercel
+
+### Option 1: 1-Click Deploy
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FDivyanshchauhan-git%2FNOVA-NERDS&env=GEMINI_API_KEY&envDescription=Google%20Gemini%20API%20Key)
+
+### Option 2: Manual Import via Vercel Dashboard
+1. Go to [vercel.com](https://vercel.com) and log in with your GitHub account.
+2. Click **"Add New..."** > **"Project"**.
+3. Select **`Divyanshchauhan-git/NOVA-NERDS`** and click **Import**.
+4. Framework Preset: **Vite** (auto-detected).
+5. In **Environment Variables**, add:
+   - `GEMINI_API_KEY`: Your Google Gemini API Key.
+6. Click **Deploy**.
+
+
